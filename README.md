@@ -1,18 +1,18 @@
-### Chinthaka Dinadasa 👋
+## Hello there! 👋 I'm Chinthaka Dinadasa
 
+## 🚀 About Me
 
+- 🌐 [Technical Blog](https://javatodev.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/chinthakadinadasa/)
 
-<!--
-**chinthaka-dinadasa/chinthaka-dinadasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to explore my repositories to find more interesting projects!
 
-Here are some ideas to get you started:
+## 📫 How to reach me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can reach me via [email](mailto:sendtoclabz@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/chinthakadinadasa/).
+
+## 🤝 Let's Connect!
+
+If you share similar interests or have exciting ideas, let's connect! Feel free to explore my repositories, raise issues, or contribute to any ongoing projects.
+
+Thanks for visiting! 😊
