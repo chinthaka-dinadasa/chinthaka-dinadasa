@@ -18,6 +18,8 @@
 - [How To Handle Multiple Message Properties In Spring Boot](https://javatodev.com/how-to-handle-multiple-message-properties-in-spring-boot/)
 - [Multiple Datasources With Spring Boot Data JPA](https://javatodev.com/multiple-datasources-with-spring-boot-data-jpa/)
 
+Check all my writings from [technical blog](https://javatodev.com/author/chikaslocalhost/), [medium](https://medium.com/@chinthakadinadasa)
+
 #### Skills
 
 ![My Skills](https://skillicons.dev/icons?i=aws,java,spring,nodejs,gradle,maven,ansible,rabbitmq,dynamodb,mysql,mongodb,elasticsearch,prometheus,git,github,gitlab,docker,bash,powershell&theme=light)
