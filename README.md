@@ -5,7 +5,13 @@
 - 🌐 [Technical Blog](https://javatodev.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/chinthakadinadasa/)
 
+#### Skills
+
+![My Skills](https://skillicons.dev/icons?i=aws,java,spring,nodejs,gradle,maven,ansible,rabbitmq,dynamodb,mysql,mongodb,elasticsearch,prometheus,git,github,gitlab,docker,bash,powershell,)
+
 Feel free to explore my repositories to find more interesting projects!
+
+
 
 #### 📫 How to reach me
 
